@@ -39,6 +39,10 @@
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img 
+  src="https://img.shields.io/badge/n8n-FE6A16?style=for-the-badge&logo=n8n&logoColor=white" 
+  alt="n8n"
+/>
 
 </div>
 
