@@ -1,30 +1,27 @@
-<h1 align="center">Olá, bem-vindo ao meu GitHub! 😄</h1>
+<h1 align="center">👋 Olá! Eu sou o Bruno Leonardi</h1>
 
 <p align="center">
-  Muito prazer! Meu nome é <strong>Bruno Leonardi</strong> 🐒<br>
-  Sou desenvolvedor <strong>Frontend</strong> com habilidades em <strong>Backend</strong> e apaixonado por criar interfaces modernas, rápidas e intuitivas.
+  <strong>Desenvolvedor Fullstack</strong> com foco em performance, usabilidade e boas práticas.<br>
+  Trabalho com frontend moderno e também desenvolvo APIs e integrações no backend.
 </p>
 
 ---
 
-### 🚀 Tecnologias que domino ou estou estudando:
+## 🛠️ Tecnologias
 
 <div align="left">
 
 <!-- FRONTEND -->
-<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge"/>
 
-<!-- MAPS / GIS -->
+<!-- MAPS -->
 <img src="https://img.shields.io/badge/MapLibre-1F2937?style=for-the-badge&logo=mapbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deck.gl-EC407A?style=for-the-badge&logo=uber&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deck.gl-EC407A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Supercluster-4A90E2?style=for-the-badge"/>
 
 <!-- BACKEND -->
@@ -49,19 +46,14 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-### 🔥 GitHub Streak
-
+## 🔥 GitHub Streak
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=brunoleonardi&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
   />
 </p>
 
-### 📈 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
   <img 
     height="180em"
@@ -75,18 +67,15 @@
 
 ---
 
-## ✨ Sobre mim
-
-- Focado em **interfaces rápidas, modernas e acessíveis**  
-- Experiência com **MapLibre**, **Deck.gl**, **clusters**, **visualização de dados**  
-- Amante de arquitetura, UI/UX, componentização e clean code  
-- Evoluindo continuamente como **fullstack** 💻
+## 💬 Sobre mim
+- Desenvolvedor **Fullstack**  
+- Foco em **frontend moderno**, UI/UX e alta performance  
+- Experiência com mapas, clusters, visualização de dados e arquitetura limpa  
+- Criação de APIs, automações e sistemas completos  
 
 ---
 
 ## 📬 Contato
-📩 **Email:** coloque aqui  
-🔗 **LinkedIn:** coloque aqui  
-🌐 **Portfólio:** coloque aqui  
-
----
+📩 Email: **adicione aqui**  
+🔗 LinkedIn: **adicione aqui**  
+🌐 Portfólio: **adicione aqui**  
