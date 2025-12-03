@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello! I'm Bruno Leonardi</h1>
 
 <p align="center">
-  Fullstack Developer with a strong focus on modern frontend engineering, usability, and high-performance interfaces.  
-  I build reliable backend services, elegant UI components, and complete solutions that balance scalability and great user experience.  
+  Fullstack Developer with a strong focus on modern frontend engineering, usability, and high-performance interfaces. <br />
+  I build reliable backend services, elegant UI components, and complete solutions that balance scalability and great user experience. <br />
   Passionate about clean architecture, maps, data visualization, and creating products that feel smooth and intuitive.
 </p>
 
