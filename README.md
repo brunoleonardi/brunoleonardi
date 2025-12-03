@@ -1,13 +1,13 @@
-<h1 align="center">👋 Olá! Eu sou o Bruno Leonardi</h1>
+<h1 align="center">👋 Hello! I'm Bruno Leonardi</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Fullstack</strong> com foco em performance, usabilidade e boas práticas.<br>
-  Trabalho com frontend moderno e também desenvolvo APIs e integrações no backend.
+  <strong>Fullstack Developer</strong> focused on performance, usability, and best practices.<br>
+  I work with modern frontend tools and also build APIs and backend integrations.
 </p>
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <div align="left">
 
@@ -57,15 +57,15 @@
 
 ---
 
-## 💬 Sobre mim
-- Desenvolvedor **Fullstack**  
-- Foco em **frontend moderno**, UI/UX e alta performance  
-- Experiência com mapas, visualização de dados e arquitetura limpa  
-- Criação de APIs, automações e sistemas completos  
+## 💬 About Me
+- Fullstack Developer  
+- Focused on **modern frontend**, UI/UX, and high performance  
+- Experience with maps, data visualization, and clean architecture  
+- Creator of APIs, automations, and complete applications  
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 <p align="left"> 
   <a href="mailto:bruno_m_leonardi@hotmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /> 
@@ -74,6 +74,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://brunoleonardi.vercel.app/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> 
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> 
   </a>
 </p>
