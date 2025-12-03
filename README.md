@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Bruno Leonardi</h1>
+<h1 align="center">Hello! I'm Bruno Leonardi</h1>
 
 <p align="center">
   Fullstack Developer with a strong focus on modern frontend engineering, usability, and high-performance interfaces. <br />
