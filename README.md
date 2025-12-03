@@ -26,8 +26,6 @@
 
 <!-- BACKEND -->
 <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge"/>
@@ -70,7 +68,7 @@
 ## 💬 Sobre mim
 - Desenvolvedor **Fullstack**  
 - Foco em **frontend moderno**, UI/UX e alta performance  
-- Experiência com mapas, clusters, visualização de dados e arquitetura limpa  
+- Experiência com mapas, visualização de dados e arquitetura limpa  
 - Criação de APIs, automações e sistemas completos  
 
 ---
