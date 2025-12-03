@@ -66,7 +66,7 @@
 ---
 
 ## 📬 Contato
-<p align="center"> 
+<p align="left"> 
   <a href="mailto:bruno_m_leonardi@hotmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /> 
   </a>
