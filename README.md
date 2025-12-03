@@ -62,4 +62,14 @@
 ---
 
 ## 📬 Contato
-<p align="center"> <a href="mailto:bruno_m_leonardi@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/bruno-leonardi-705875180?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://brunoleonardi.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> </p>
+<p align="center"> 
+  <a href="mailto:bruno_m_leonardi@hotmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /> 
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-leonardi-705875180?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://brunoleonardi.vercel.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> 
+  </a>
+</p>
